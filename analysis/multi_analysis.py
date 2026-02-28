@@ -12,8 +12,8 @@ import random
 import os
 
 # ================= 🔧 配置  =================
-CSV_FILE_PATH = r'D:\Traffic_Prediction\data\station_407204_3months.csv'
-MODEL_PATH = 'champion_model.pth'
+CSV_FILE_PATH = 'data/station_407204_3months.csv'
+MODEL_PATH = 'checkpoint/champion_model.pth'
 
 # --- 物理场景 ---
 NUM_LANES = 4

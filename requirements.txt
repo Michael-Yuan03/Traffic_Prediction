@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 torch
 scipy
+flask
+gunicorn
